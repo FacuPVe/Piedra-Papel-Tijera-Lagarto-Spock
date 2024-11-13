@@ -10,5 +10,7 @@ Una vez creado el proyecto será necesario instalar todas las dependencias (Reac
  - cd react-pptls
  - npm install
    
-Para finalizar iniciaremos nuestro proyecto para ver si se inicia correctamente: npm run dev
+Para finalizar iniciaremos nuestro proyecto para ver si se inicia correctamente: 
+- npm run dev
+
 Y una vez hecho todos los pasos anteriores ya podremos empezar a desarrollar el juego :)
