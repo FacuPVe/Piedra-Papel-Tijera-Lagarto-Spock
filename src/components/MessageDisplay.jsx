@@ -1,0 +1,1 @@
+// Componente para mostrar mensajes al jugador
