@@ -44,7 +44,7 @@ module.exports = {
   plugins: [],
 }
 ```
-In the src/index.css file, import the Tailwind styles: `
+En src/index.css, importa los estilos de tailwind: `
 ```css
 @tailwind base; 
 @tailwind components; 
