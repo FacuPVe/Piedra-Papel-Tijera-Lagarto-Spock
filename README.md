@@ -1,5 +1,5 @@
 # Piedra, Papel, Tijera, Lagarto, Spock con React + Vite
-En este proyecto haré el juego Piedra, Papel, Tijera, Lagarto, Spock con React y Vite:
+En este proyecto se ha hecho el juego Piedra, Papel, Tijera, Lagarto, Spock con React y Vite:
 ### Crear proyecto: 
 Estando dentro de la carpeta donde quieres crear tu proyecto ejecuta el siguiente comando desde terminal: 
 ```
